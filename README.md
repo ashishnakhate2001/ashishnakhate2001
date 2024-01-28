@@ -20,7 +20,7 @@
   white-space: -o-pre-wrap;
   word-wrap: break-word;">
 - 🔭 I’m currently working on   ...   <b>Datastructure And Algorithms</b><br>
-- 🌱 I’m currently learning     ...   <b>C++</b><br>
+- 🌱 I’m currently learning     ...   <b>Java</b><br>
 - 🤔 I’m looking for help with  ...   <b>Web Development</b><br>
 - 💬 Ask me about               ...   <b>Tech and Stuff</b><br>
  </pre>
